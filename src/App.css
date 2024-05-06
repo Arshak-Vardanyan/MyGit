@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 5px;
+  border: 7px;
+}
+
+.btn {
+  color:rgb(171, 57, 44);
+  background-color: blue;
+  border: 4px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.parent{
+  display: flex;
+  gap: 20px;
+  padding: 4px;
+  justify-content: center;
+
+}
+.child {
+  color: red;
+  border: 3px solid yellow;
+  padding: 20px;
+}
+
+body{
+  background-color: aqua;
+}
