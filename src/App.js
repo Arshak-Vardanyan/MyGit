@@ -8,6 +8,7 @@ const App = () => {
     <>
      <div>
       Hello Armenia
+      Hello World
      </div>
     </>
   )
