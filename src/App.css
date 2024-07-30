@@ -7,8 +7,10 @@
 
 }
 .child {
-  color: red;
-  border: 3px solid yellow;
+  border: 3px solid red;
+  border-radius: 8px;
   padding: 20px;
 }
-
+body{
+  padding: 10px;
+}
